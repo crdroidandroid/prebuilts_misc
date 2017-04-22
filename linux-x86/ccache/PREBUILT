@@ -1,0 +1,5 @@
+The prebuilt ccache was built from source files inside ccache-3.3.4.tar.gz.
+The ccache-3.3.4.tar.gz file was dowloaded from http://ccache.samba.org/download.html.
+
+Linux build environment: x86_64, Arcg Linux
+Compiler: Clang 5.0 
